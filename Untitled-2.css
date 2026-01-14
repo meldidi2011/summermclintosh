@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+    color: #081964;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 93px;
+    font-style: normal;
+    background-color: #668AC7;
+    text-align: center;
+}
+h2 {
+    color: #092A64;
+    background-color: #518DC4;
+}
+h3 {
+    color: #081964;
+    background-color: #5A6FCB;
+}
+body {
+    color: #FFFFFF;
+    background-color: #194C9A;
+}
+color {
+    color: white;
+}
+  
+  table {
+
+
+}
+a:
